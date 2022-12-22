@@ -1,0 +1,9 @@
+.amltignore
+.github/
+.git/
+.gitignore
+docker/
+docs/
+tests/
+__pycache__/
+scripts/amulet/
